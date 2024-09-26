@@ -1,4 +1,5 @@
-# Skyalytics
+# Skyalytics 
+Website - https://sites.google.com/view/skyalytics/home?authuser=0
 The efficiency of air travel is a vital aspect of contemporary transportation networks, affecting millions of travelers, enterprises, and the national economy. The primary goal is to create an interactive dashboard for analyzing extensive domestic flight data, including major airlines' on-time performance, delays, cancellations, and diversions. It seeks to uncover hidden patterns and trends, enabling users to identify recurring issues, understand cancellation reasons, and recognize overall performance trends. This dashboard will evaluate the overall effectiveness of U.S. air travel by assessing punctuality, disruption frequency, and airline reliability, benefiting stakeholders such as airlines, travelers, and policymakers.
 
 Amidst the backdrop of 926.8 million passengers traveling via domestic airlines in the United States, the aviation industry grappled with a substantial number of flight disruptions. A staggering 13.4 million flights experienced delays throughout the year, equating to an average of about 36,712 flights per day. These delays, whether due to weather, technical issues, or other factors, undoubtedly impacted travelers and airlines alike. 
